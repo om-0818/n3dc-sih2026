@@ -1,0 +1,1 @@
+import{c as e,d as t,s as n}from"./theme-CC92I386.js";var r=t(e(),1);n();var i=Object.defineProperty,a=(e,t)=>i(e,`name`,{value:t,configurable:!0}),o=r.createContext(void 0);function s(e){let t=r.useContext(o);return e||t||`ltr`}a(s,`useDirection`);export{s as t};
